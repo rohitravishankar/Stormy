@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\release\classes-63f8898f7198f76b731f38ace5df8401df07b722.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\release\classes-9583d8e3c93f023261e6266c6cc06337ebf1b0e9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\release\classes-1bc7ceba1d1b0febec94afc1534904cd4ee8b69d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rohit Ravishankar\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.3.0\1b355f73402020c5a0dcca58affc3ec3dfeabac1\okio-1.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\release\okio-1.3.0-d32d2dadcc08a1a824f944b9a5e562bc72a62df9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rohit Ravishankar\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\release\butterknife-6.1.0-275513c1c77079f2756b4e203501cac4771f2577.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\release\classes-0daab12ca7985bc7cb58e7cb31170bd692737d07.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\release\classes-be38e83e83098733253ec2c86e7b2ef5020924bf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\release\classes-41cd62d84cca14d7609e8f827b8367312dbfcd77.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\release\classes-301f5e8ecddff955ed6662dfd4f55bc1aa7e80ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\release\classes-3c0724c7c1f95c9b1e44870e2806be8d3c50dfa4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rohit Ravishankar\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\release\support-annotations-22.0.0-0e88fb40025bcb31f41aaf638ab813fe4d42cfc7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\release\classes-69c2035885077c39874a40f6c3e6b60d099a18ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\release\classes-c915205b7fc977f0abc0279760be5ab4bce48e15.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rohit Ravishankar\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.3.0\2e7bc7033dc2c8423e661224171b3133fb155b28\okhttp-2.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\release\okhttp-2.3.0-80fb6264227a338b3d303e3df2c32d23d3d0f9b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\release\classes-df24a072070299a3b293fdebd0bc0f28e267297e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\release\classes-9817799db649fc642059887a1d4de59e311c01d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\release\classes-08fc945ac11a83e82c98203191f06c87372dbb22.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\release\internal_impl-22.0.0-c2af84c66a41c57ae1074aaf9a3ccbb6e9c6555c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\release\classes-8e354bec3abde2517b0f7bff48a7b1daa6971238.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\release\classes-c5afb55a754fcd0606f0be08040947ed2c88df78.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\release\classes-b6675783bfc14e3d6b4a0c2069878f1a2d4aec27.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\release\classes-d64b4bf7ae49d9fb74840a9c0a4710a980c4a269.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\release\classes-bdb7edf774ca7c8e09696a1a3f27c20bf578e356.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\release\classes-9b379c3fc4faec74c707624312527a7d9749370e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\release\classes-4f09befa6ad39936c96a5823818cfeb39df10755.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\Rohit Ravishankar\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\release\classes-15aed3a1f9fef373765c55b25527f76c0a2c8934.jar" />
+    </item>
+
+</items>
